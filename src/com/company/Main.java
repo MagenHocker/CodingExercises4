@@ -98,7 +98,7 @@ public class Main {
         }
     }
 
-    public static int[] readIntegers(int count){
+    public static int[] readIntegers(int count) {
         System.out.println("Enter " + count + " integer values.\r");
         int[] values = new int[count];
 
